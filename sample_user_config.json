@@ -5,7 +5,11 @@
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY"
     },
-    "synoinfo": {},
+    "synoinfo": {
+    "maxdisks" : "16",
+    "internalportcfg" : "0xf",
+    "esataportcfg" : "0xffff0"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
